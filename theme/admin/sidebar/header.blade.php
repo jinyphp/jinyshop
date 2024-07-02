@@ -76,7 +76,7 @@
     </ul>
 
 
-    @theme("header/profile")
+    {{-- @theme("header/profile") --}}
     {{-- <x-theme-header.profile></x-theme-header.profile> --}}
 
 </nav>

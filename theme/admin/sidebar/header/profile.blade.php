@@ -164,7 +164,10 @@
         </li>
         <li class="nav-item dropdown">
             <a class="nav-icon pe-md-0 dropdown-toggle" href="#" data-bs-toggle="dropdown">
-                <img src="/account/avatas/{{Auth::user()->id}}" class="avatar img-fluid rounded">
+                @auth
+                <img src="/account/avatas/{{Auth::user()->id}}"
+                    class="avatar img-fluid rounded">
+                @endauth
             </a>
             <div class="dropdown-menu dropdown-menu-end">
                 <a class="dropdown-item" href="pages-profile.html">
