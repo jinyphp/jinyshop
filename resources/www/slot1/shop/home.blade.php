@@ -1,20 +1,35 @@
 <x-www-layout>
-    쇼핑몰 홈화면
-
+    <div>@livewire('ShopBanner')</div>
     <div>
-        내 이름은 {{$name}} 입니다.
     </div>
-
-
-    <div class="row">
-        <div class="col-6">
-            @livewire('ShopMain-Selider')
-        </div>
+    <div class="row justify-content-center">
         <div class="col-6">
             @livewire('ShopMain-Selider')
         </div>
     </div>
 
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <h1>할인 중 상품</h1>
+        </div>
+    </div>
 
 
+    <div class="row justify-content-center">
+        <div class="col-6">
+            @livewire('ShopEvent')
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <h1>리뷰</h1>
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-6">
+            @livewire('ShopReview')
+        </div>
+    </div>
 </x-www-layout>
