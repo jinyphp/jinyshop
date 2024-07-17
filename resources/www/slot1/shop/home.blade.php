@@ -59,7 +59,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.bundle.min.js"></script>
     <script>
         document.getElementById('contact-button').addEventListener('click', function() {
-            window.location.href = '/contact'; // Contact 페이지로 이동
+            window.location.href = '/shop/contact'; // Contact 페이지로 이동
         });
     </script>
 
