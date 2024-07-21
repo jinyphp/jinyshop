@@ -32,6 +32,11 @@
     <!-- Vendor styles -->
     <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
 
+    {{-- shop-product-general-electronics 의 header --}}
+    <link rel="stylesheet" href="/assets/vendor/drift-zoom/dist/drift-basic.min.css">
+    <link rel="stylesheet" href="/assets/vendor/simplebar/dist/simplebar.min.css">
+    <link rel="stylesheet" href="/assets/vendor/choices.js/public/assets/styles/choices.min.css">
+
     <!-- Bootstrap + Theme styles -->
     <link rel="preload" href="/assets/css/theme.min.css" as="style">
     <link rel="stylesheet" href="/assets/css/theme.min.css" id="theme-styles">
@@ -40,12 +45,7 @@
   <!-- Body -->
 <body>
 
-  <x-www-header>
-  </x-www-header>
-
   {{$slot}}
 
-  <x-www-footer>
-  </x-www-footer>
 </body>
 </html>

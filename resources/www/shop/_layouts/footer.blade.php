@@ -260,5 +260,10 @@
 <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
 <script src="/assets/vendor/timezz/dist/timezz.js"></script>
 
+<!-- Vendor scripts(shop-product-general-electronics) -->
+<script src="/assets/vendor/drift-zoom/dist/Drift.min.js"></script>
+<script src="/assets/vendor/simplebar/dist/simplebar.min.js"></script>
+<script src="/assets/vendor/choices.js/public//assets/scripts/choices.min.js"></script>
+
 <!-- Bootstrap + Theme scripts -->
 <script src="/assets/js/theme.min.js"></script>
