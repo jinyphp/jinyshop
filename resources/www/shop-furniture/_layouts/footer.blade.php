@@ -1,3 +1,97 @@
+<!-- Page footer -->
+<footer class="footer bg-dark pb-4 py-lg-5" data-bs-theme="dark">
+  <div class="container pt-5 pt-lg-4 mt-sm-2 mt-md-3">
+    <div class="row pb-5">
+
+      <!-- Subscription + Social account links -->
+      <div class="col-md col-xl-8 order-md-2">
+        <div class="text-center px-sm-4 mx-auto" style="max-width: 568px">
+          <h3 class="pb-1 mb-2">Stay in touch with us</h3>
+          <p class="fs-sm text-body pb-2 pb-sm-3">Receive the latest updates about our products &amp; promotions</p>
+          <form class="needs-validation position-relative" novalidate>
+            <input type="email" class="form-control form-control-lg rounded-pill text-start" placeholder="You email" aria-label="Your email address" required>
+            <div class="invalid-tooltip bg-transparent p-0">Please enter you email address!</div>
+            <button type="submit" class="btn btn-icon fs-xl btn-dark rounded-circle position-absolute top-0 end-0 mt-1 me-1" aria-label="Submit your email address" data-bs-theme="light">
+              <i class="ci-arrow-up-right"></i>
+            </button>
+          </form>
+          <div class="d-flex justify-content-center gap-2 pt-4 pt-md-5 mt-1 mt-md-0">
+            <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template='<div class="tooltip fs-xs mb-n2" role="tooltip"><div class="tooltip-inner bg-transparent text-white p-0"></div></div>' title="YouTube" aria-label="Follow us on YouTube">
+              <i class="ci-youtube"></i>
+            </a>
+            <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template='<div class="tooltip fs-xs mb-n2" role="tooltip"><div class="tooltip-inner bg-transparent text-white p-0"></div></div>' title="Facebook" aria-label="Follow us on Facebook">
+              <i class="ci-facebook"></i>
+            </a>
+            <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template='<div class="tooltip fs-xs mb-n2" role="tooltip"><div class="tooltip-inner bg-transparent text-white p-0"></div></div>' title="Instagram" aria-label="Follow us on Instagram">
+              <i class="ci-instagram"></i>
+            </a>
+            <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template='<div class="tooltip fs-xs mb-n2" role="tooltip"><div class="tooltip-inner bg-transparent text-white p-0"></div></div>' title="Telegram" aria-label="Follow us on Telegram">
+              <i class="ci-telegram"></i>
+            </a>
+            <a class="btn btn-icon fs-base btn-outline-secondary border-0" href="#!" data-bs-toggle="tooltip" data-bs-template='<div class="tooltip fs-xs mb-n2" role="tooltip"><div class="tooltip-inner bg-transparent text-white p-0"></div></div>' title="Pinterest" aria-label="Follow us on Pinterest">
+              <i class="ci-pinterest"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Category links -->
+      <div class="col-md-auto col-xl-2 text-center order-md-1 pt-4 pt-md-0">
+        <ul class="nav d-inline-flex flex-md-column justify-content-center align-items-center gap-md-2">
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Bedroom</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Living room</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Bathroom</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Decoration</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Kitchen</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Sale</a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Customer links -->
+      <div class="col-md-auto col-xl-2 text-center order-md-3 pt-3 pt-md-0">
+        <ul class="nav d-inline-flex flex-md-column justify-content-center align-items-center gap-md-2">
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Shipping options</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Tracking a package</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Help center</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Contact us</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Product returns</a>
+          </li>
+          <li class="animate-underline my-1 mx-2 m-md-0">
+            <a class="nav-link d-inline-flex fw-normal p-0 animate-target" href="#!">Locations</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Copyright -->
+    <p class="fs-xs text-body text-center pt-lg-4 mt-n2 mt-md-0 mb-0">
+      &copy; All rights reserved. Made by <span class="animate-underline"><a class="animate-target text-white text-decoration-none" href="https://createx.studio/" target="_blank" rel="noreferrer">Createx Studio</a></span>
+    </p>
+  </div>
+</footer>
+
+
 <!-- Back to top button -->
 <div class="floating-buttons position-fixed top-50 end-0 z-sticky me-3 me-xl-4 pb-4">
   <a class="btn-scroll-top btn btn-sm bg-body border-0 rounded-pill shadow animate-slide-end" href="#top">
@@ -10,262 +104,10 @@
   </a>
 </div>
 
-<!-- Page footer -->
-<footer class="footer position-relative bg-dark">
-  <span class="position-absolute top-0 start-0 w-100 h-100 bg-body d-none d-block-dark"></span>
-  <div class="container position-relative z-1 pt-sm-2 pt-md-3 pt-lg-4" data-bs-theme="dark">
-
-    <!-- Columns with links that are turned into accordion on screens < 500px wide (sm breakpoint) -->
-    <div class="accordion py-5" id="footerLinks">
-      <div class="row">
-        <div class="col-md-4 d-sm-flex flex-md-column align-items-center align-items-md-start pb-3 mb-sm-4">
-          <h4 class="mb-sm-0 mb-md-4 me-4">
-            <a class="text-dark-emphasis text-decoration-none" href="index">Cartzilla</a>
-          </h4>
-          <p class="text-body fs-sm text-sm-end text-md-start mb-sm-0 mb-md-3 ms-0 ms-sm-auto ms-md-0 me-4">Got questions? Contact us 24/7</p>
-          <div class="dropdown" style="max-width: 250px">
-            <button type="button" class="btn btn-light dropdown-toggle justify-content-between w-100 d-none-dark" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Help and consultation
-            </button>
-            <button type="button" class="btn btn-secondary dropdown-toggle justify-content-between w-100 d-none d-flex-dark" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Help and consultation
-            </button>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#!">Help center &amp; FAQ</a></li>
-              <li><a class="dropdown-item" href="#!">Support chat</a></li>
-              <li><a class="dropdown-item" href="#!">Open support ticket</a></li>
-              <li><a class="dropdown-item" href="#!">Call center</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md-8">
-          <div class="row row-cols-1 row-cols-sm-3 gx-3 gx-md-4">
-            <div class="accordion-item col border-0">
-              <h6 class="accordion-header" id="companyHeading">
-                <span class="text-dark-emphasis d-none d-sm-block">Company</span>
-                <button type="button" class="accordion-button collapsed py-3 d-sm-none" data-bs-toggle="collapse" data-bs-target="#companyLinks" aria-expanded="false" aria-controls="companyLinks">Company</button>
-              </h6>
-              <div class="accordion-collapse collapse d-sm-block" id="companyLinks" aria-labelledby="companyHeading" data-bs-parent="#footerLinks">
-                <ul class="nav flex-column gap-2 pt-sm-3 pb-3 mt-n1 mb-1">
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">About company</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Our team</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Careers</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Contact us</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">News</a>
-                  </li>
-                </ul>
-              </div>
-              <hr class="d-sm-none my-0">
-            </div>
-            <div class="accordion-item col border-0">
-              <h6 class="accordion-header" id="accountHeading">
-                <span class="text-dark-emphasis d-none d-sm-block">Account</span>
-                <button type="button" class="accordion-button collapsed py-3 d-sm-none" data-bs-toggle="collapse" data-bs-target="#accountLinks" aria-expanded="false" aria-controls="accountLinks">Account</button>
-              </h6>
-              <div class="accordion-collapse collapse d-sm-block" id="accountLinks" aria-labelledby="accountHeading" data-bs-parent="#footerLinks">
-                <ul class="nav flex-column gap-2 pt-sm-3 pb-3 mt-n1 mb-1">
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Your account</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Shipping rates &amp; policies</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Refunds &amp; replacements</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Delivery info</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Order tracking</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Taxes &amp; fees</a>
-                  </li>
-                </ul>
-              </div>
-              <hr class="d-sm-none my-0">
-            </div>
-            <div class="accordion-item col border-0">
-              <h6 class="accordion-header" id="customerHeading">
-                <span class="text-dark-emphasis d-none d-sm-block">Customer service</span>
-                <button type="button" class="accordion-button collapsed py-3 d-sm-none" data-bs-toggle="collapse" data-bs-target="#customerLinks" aria-expanded="false" aria-controls="customerLinks">Customer service</button>
-              </h6>
-              <div class="accordion-collapse collapse d-sm-block" id="customerLinks" aria-labelledby="customerHeading" data-bs-parent="#footerLinks">
-                <ul class="nav flex-column gap-2 pt-sm-3 pb-3 mt-n1 mb-1">
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Payment methods</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Money back guarantee</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Product returns</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Support center</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Shipping</a>
-                  </li>
-                  <li class="d-flex w-100 pt-1">
-                    <a class="nav-link animate-underline animate-target d-inline fw-normal text-truncate p-0" href="#!">Terms &amp; conditions</a>
-                  </li>
-                </ul>
-              </div>
-              <hr class="d-sm-none my-0">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Category / tag links -->
-    <div class="d-flex flex-column gap-3 pb-3 pb-md-4 pb-lg-5 mt-n2 mt-sm-n4 mt-lg-0 mb-4">
-      <ul class="nav align-items-center text-body-tertiary gap-2">
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Computers</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Smartphones</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">TV, Video</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Speakers</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Cameras</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Printers</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Video Games</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Headphones</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Wearable</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">HDD/SSD</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Smart Home</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Apple Devices</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Tablets</a>
-        </li>
-      </ul>
-      <ul class="nav align-items-center text-body-tertiary gap-2">
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Monitors</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Scanners</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Servers</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Heating and Cooling</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">E-readers</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Data Storage</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Networking</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Power Strips</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Plugs and Outlets</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Detectors and Sensors</a>
-        </li>
-        <li class="px-1">/</li>
-        <li class="animate-underline">
-          <a class="nav-link fw-normal p-0 animate-target" href="#!">Accessories</a>
-        </li>
-      </ul>
-    </div>
-
-    <!-- Copyright + Payment methods -->
-    <div class="d-md-flex align-items-center border-top py-4">
-      <div class="d-flex gap-2 gap-sm-3 justify-content-center ms-md-auto mb-4 mb-md-0 order-md-2">
-        <div>
-          <img src="/assets/img/payment-methods/visa-dark-mode.svg" alt="Visa">
-        </div>
-        <div>
-          <img src="/assets/img/payment-methods/mastercard.svg" alt="Mastercard">
-        </div>
-        <div>
-          <img src="/assets/img/payment-methods/paypal-dark-mode.svg" alt="PayPal">
-        </div>
-        <div>
-          <img src="/assets/img/payment-methods/google-pay-dark-mode.svg" alt="Google Pay">
-        </div>
-        <div>
-          <img src="/assets/img/payment-methods/apple-pay-dark-mode.svg" alt="Apple Pay">
-        </div>
-      </div>
-      <p class="text-body fs-xs text-center text-md-start mb-0 me-4 order-md-1">&copy; All rights reserved. Made by <span class="animate-underline"><a class="animate-target text-dark-emphasis fw-medium text-decoration-none" href="https://createx.studio/" target="_blank" rel="noreferrer">Createx Studio</a></span></p>
-    </div>
-  </div>
-</footer>
-
-{{-- 자바스크립트 코드 부분 --}}
 <!-- Vendor scripts -->
 <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="/assets/vendor/timezz/dist/timezz.js"></script>
-
-<!-- Vendor scripts(shop-product-general-electronics) -->
-<script src="/assets/vendor/drift-zoom/dist/Drift.min.js"></script>
 <script src="/assets/vendor/simplebar/dist/simplebar.min.js"></script>
-<script src="/assets/vendor/choices.js/public//assets/scripts/choices.min.js"></script>
+<script src="/assets/vendor/glightbox/dist/js/glightbox.min.js"></script>
 
-<!-- Vendor scripts(shop-catalog-electronics) -->
-<script src="assets/vendor/nouislider/dist/nouislider.min.js"></script>
 <!-- Bootstrap + Theme scripts -->
 <script src="/assets/js/theme.min.js"></script>
