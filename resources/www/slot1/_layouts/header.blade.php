@@ -17,7 +17,7 @@
 
         <!-- 로고, 모바일시 가운데 정렬 -->
         <a class="navbar-brand p-0 me-0 me-lg-2" href="/">
-            JinyPHP
+            JinyPHP{{$slot}}
         </a>
 
         <!-- 모바일 좌측메뉴 mobile-right -->
