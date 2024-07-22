@@ -11,7 +11,7 @@ return [
 		'description'=>"추가슬롯"
     ],
     'shop'=>[
-		'active'=>"0",
+		'active'=>"1",
 		'name'=>"shop",
 		'description'=>"쇼핑몰 카트질라 전자기기"
 	],
@@ -21,7 +21,7 @@ return [
 		'description'=>"쇼핑몰 카트질라 패션1"
 	],
     'shop-fashion-v2'=>[
-		'active'=>"1",
+		'active'=>"0",
 		'name'=>"shop-fashion-v2",
 		'description'=>"쇼핑몰 카트질라 패션2"
 	],
