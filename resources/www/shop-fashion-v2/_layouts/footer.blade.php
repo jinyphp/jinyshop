@@ -205,6 +205,8 @@
 <script src="/assets/vendor/simplebar/dist/simplebar.min.js"></script>
 <script src="/assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
 <script src="/assets/vendor/glightbox/dist/js/glightbox.min.js"></script>
+<script src="/assets/vendor/nouislider/dist/nouislider.min.js"></script>
+<script src="/assets/vendor/list.js/dist/list.min.js"></script>
 
 <!-- Bootstrap + Theme scripts -->
 <script src="/assets/js/theme.min.js"></script>
