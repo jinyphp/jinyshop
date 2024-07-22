@@ -22,7 +22,7 @@
       <!-- Promo text + Social account links -->
       <div class="col-lg-3 text-center text-lg-start pb-sm-2 pb-md-0 mb-4 mb-md-5 mb-lg-0">
         <h4 class="pb-2 mb-1">
-          <a class="text-dark-emphasis text-decoration-none" href="home-grocery.html">Cartzilla</a>
+          <a class="text-dark-emphasis text-decoration-none" href="home-grocery">Cartzilla</a>
         </h4>
         <p class="fs-sm text-body mx-auto" style="max-width: 480px">With a wide selection of fresh produce, pantry staples, and household essentials, we've got everything you need just a click away.</p>
         <div class="d-flex justify-content-center justify-content-lg-start gap-2 pt-2 pt-md-3">
@@ -182,11 +182,6 @@
     </svg>
   </a>
 </div>
-
-{{-- 자바스크립트 코드 부분 --}}
-<!-- Vendor scripts -->
-{{-- <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="/assets/vendor/timezz/dist/timezz.js"></script> --}}
 
 
 <!-- Vendor scripts(home-grocery) -->
