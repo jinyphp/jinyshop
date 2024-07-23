@@ -31,10 +31,7 @@
 
     <!-- Vendor styles -->
     <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
-    {{-- Vendor styles (shop-catalog-electronics.blade.php 추가) --}}
     <link rel="stylesheet" href="/assets/vendor/nouislider/dist/nouislider.min.css">
-
-    {{-- Vendor styles (shop-product-general-electronics 추가) --}}
     <link rel="stylesheet" href="/assets/vendor/drift-zoom/dist/drift-basic.min.css">
     <link rel="stylesheet" href="/assets/vendor/simplebar/dist/simplebar.min.css">
     <link rel="stylesheet" href="/assets/vendor/choices.js/public/assets/styles/choices.min.css">
