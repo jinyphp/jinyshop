@@ -173,7 +173,21 @@
                   }' alt="Preview">
                 </div>
               </div>
+
+              {{-- 여기부터  --}}
+              @foreach($rows as $key => $item)
               <div class="swiper-slide">
+                <div class="ratio ratio-1x1">
+                  <img src="/{{$item->image}}" data-zoom="/{{$item->image}}" data-zoom-options='{
+                    "paneSelector": "#zoomPane",
+                    "inlinePane": 768,
+                    "hoverDelay": 500,
+                    "touchDisable": true
+                  }' alt="Preview">
+                </div>
+              </div>
+              @endforeach
+              {{-- <div class="swiper-slide">
                 <div class="ratio ratio-1x1">
                   <img src="/assets/img/shop/electronics/product/gallery/02.png" data-zoom="/assets/img/shop/electronics/product/gallery/02.png" data-zoom-options='{
                     "paneSelector": "#zoomPane",
@@ -232,7 +246,10 @@
                     "touchDisable": true
                   }' alt="Preview">
                 </div>
-              </div>
+              </div> --}}
+
+
+              {{-- 여기까지 --}}
             </div>
 
             <!-- Prev button -->
@@ -278,7 +295,16 @@
             }
           }'>
             <div class="swiper-wrapper">
-              <div class="swiper-slide swiper-thumb">
+              <div class="ratio ratio-1x1" style="max-width: 94px">
+                <img src="/assets/img/shop/electronics/product/gallery/th01.png" class="swiper-thumb-img" alt="Thumbnail">
+              </div>
+              @foreach ( $rows as $key => $item )
+              <div class="ratio ratio-1x1" style="max-width: 94px">
+                <img src="/{{$item->image}}" class="swiper-thumb-img" alt="Thumbnail">
+              </div>
+              @endforeach
+
+              {{-- <div class="swiper-slide swiper-thumb">
                 <div class="ratio ratio-1x1" style="max-width: 94px">
                   <img src="/assets/img/shop/electronics/product/gallery/th01.png" class="swiper-thumb-img" alt="Thumbnail">
                 </div>
@@ -312,7 +338,9 @@
                 <div class="ratio ratio-1x1" style="max-width: 94px">
                   <img src="/assets/img/shop/electronics/product/gallery/th07.png" class="swiper-thumb-img" alt="Thumbnail">
                 </div>
-              </div>
+              </div> --}}
+
+
             </div>
           </div>
         </div>
