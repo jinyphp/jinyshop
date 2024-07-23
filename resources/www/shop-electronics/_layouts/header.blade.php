@@ -19,7 +19,7 @@
     <!-- Item -->
     <div class="d-flex align-items-center">
       <a class="flex-shrink-0" href="shop-product-general-electronics">
-        <img src="//assets/img/shop/electronics/thumbs/08.png" width="110" alt="iPhone 14">
+        <img src="/assets/img/shop/electronics/thumbs/08.png" width="110" alt="iPhone 14">
       </a>
       <div class="w-100 min-w-0 ps-2 ps-sm-3">
         <h5 class="d-flex animate-underline mb-2">
@@ -45,7 +45,7 @@
     <div class="d-flex align-items-center">
       <a class="position-relative flex-shrink-0" href="shop-product-general-electronics">
         <span class="badge text-bg-danger position-absolute top-0 start-0">-10%</span>
-        <img src="//assets/img/shop/electronics/thumbs/09.png" width="110" alt="iPad Pro">
+        <img src="/assets/img/shop/electronics/thumbs/09.png" width="110" alt="iPad Pro">
       </a>
       <div class="w-100 min-w-0 ps-2 ps-sm-3">
         <h5 class="d-flex animate-underline mb-2">
@@ -70,7 +70,7 @@
     <!-- Item -->
     <div class="d-flex align-items-center">
       <a class="flex-shrink-0" href="shop-product-general-electronics">
-        <img src="//assets/img/shop/electronics/thumbs/01.png" width="110" alt="Smart Watch">
+        <img src="/assets/img/shop/electronics/thumbs/01.png" width="110" alt="Smart Watch">
       </a>
       <div class="w-100 min-w-0 ps-2 ps-sm-3">
         <h5 class="d-flex animate-underline mb-2">
