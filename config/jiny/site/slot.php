@@ -10,9 +10,9 @@ return [
       'name'=>"slot2",
       'description'=>"추가슬롯"
     ],
-    'shop'=>[
-      'active'=>"0",
-      'name'=>"shop",
+    'shop-electronics'=>[
+      'active'=>"1",
+      'name'=>"shop-electronics",
       'description'=>"쇼핑몰 카트질라 전자기기"
    ],
     'shop-fashion-v1'=>[
@@ -26,7 +26,7 @@ return [
       'description'=>"쇼핑몰 카트질라 패션2"
    ],
     'shop-furniture'=>[
-      'active'=>"1",
+      'active'=>"0",
       'name'=>"shop-furniture",
       'description'=>"쇼핑몰 카트질라 가구"
    ],

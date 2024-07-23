@@ -33,6 +33,8 @@
     <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="/assets/vendor/simplebar/dist/simplebar.min.css">
     <link rel="stylesheet" href="/assets/vendor/glightbox/dist/css/glightbox.min.css">
+    <link rel="stylesheet" href="/assets/vendor/choices.js/public/assets/styles/choices.min.css">
+    <link rel="stylesheet" href="/assets/vendor/nouislider/dist/nouislider.min.css">
 
     <!-- Bootstrap + Theme styles -->
     <link rel="preload" href="/assets/css/theme.min.css" as="style">
