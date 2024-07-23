@@ -195,5 +195,8 @@
 <script src="/assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
 <script src="/assets/vendor/glightbox/dist/js/glightbox.min.js"></script>
 
+<!-- Vendor scripts(404-grocery) -->
+<script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
+
 <!-- Bootstrap + Theme scripts -->
 <script src="/assets/js/theme.min.js"></script>

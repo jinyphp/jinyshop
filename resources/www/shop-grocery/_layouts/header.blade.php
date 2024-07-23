@@ -1121,7 +1121,7 @@
     </div>
   </div>
 
-  <!-- Search collapse available on screens < 768px wide (md breakpoint) -->
+  {{-- <!-- Search collapse available on screens < 768px wide (md breakpoint) -->
   <div class="collapse d-md-none" id="searchBar">
     <div class="container pt-2 pb-3">
       <div class="position-relative">
@@ -1130,7 +1130,7 @@
       </div>
     </div>
   </div>
-</header>
+</header> --}}
 
 
 <!-- Categories -->
