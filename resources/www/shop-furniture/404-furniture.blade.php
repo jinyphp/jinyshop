@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 <x-www-app>
 
   <x-www-header>
   </x-www-header>
+=======
+<x-www-layout>
+>>>>>>> b160a956126e1af7943a19f88619dd3027f4bbae
 
   <!-- Page content -->
   <main class="content-wrapper position-relative d-flex" style="margin-top: -110px; padding-top: 110px">
@@ -63,5 +67,9 @@
     <div class="position-absolute top-0 end-0 w-50 h-100 bg-body-tertiary d-none d-md-block"></div>
   </main>
 
+<<<<<<< HEAD
 </x-www-app>
+=======
+</x-www-layout>
+>>>>>>> b160a956126e1af7943a19f88619dd3027f4bbae
 
