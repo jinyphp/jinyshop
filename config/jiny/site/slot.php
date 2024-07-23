@@ -10,9 +10,9 @@ return [
 		'name'=>"slot2",
 		'description'=>"추가슬롯"
     ],
-    'shop'=>[
+    'shop-electronics'=>[
 		'active'=>"1",
-		'name'=>"shop",
+		'name'=>"shop-electronics",
 		'description'=>"쇼핑몰 카트질라 전자기기"
 	],
     'shop-fashion-v1'=>[

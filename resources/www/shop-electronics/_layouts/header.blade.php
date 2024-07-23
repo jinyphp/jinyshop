@@ -19,7 +19,7 @@
     <!-- Item -->
     <div class="d-flex align-items-center">
       <a class="flex-shrink-0" href="shop-product-general-electronics">
-        <img src="/assets/img/shop/electronics/thumbs/08.png" width="110" alt="iPhone 14">
+        <img src="//assets/img/shop/electronics/thumbs/08.png" width="110" alt="iPhone 14">
       </a>
       <div class="w-100 min-w-0 ps-2 ps-sm-3">
         <h5 class="d-flex animate-underline mb-2">
@@ -45,7 +45,7 @@
     <div class="d-flex align-items-center">
       <a class="position-relative flex-shrink-0" href="shop-product-general-electronics">
         <span class="badge text-bg-danger position-absolute top-0 start-0">-10%</span>
-        <img src="/assets/img/shop/electronics/thumbs/09.png" width="110" alt="iPad Pro">
+        <img src="//assets/img/shop/electronics/thumbs/09.png" width="110" alt="iPad Pro">
       </a>
       <div class="w-100 min-w-0 ps-2 ps-sm-3">
         <h5 class="d-flex animate-underline mb-2">
@@ -70,7 +70,7 @@
     <!-- Item -->
     <div class="d-flex align-items-center">
       <a class="flex-shrink-0" href="shop-product-general-electronics">
-        <img src="/assets/img/shop/electronics/thumbs/01.png" width="110" alt="Smart Watch">
+        <img src="//assets/img/shop/electronics/thumbs/01.png" width="110" alt="Smart Watch">
       </a>
       <div class="w-100 min-w-0 ps-2 ps-sm-3">
         <h5 class="d-flex animate-underline mb-2">
@@ -357,7 +357,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Starts from <del>$1,599.00</del> $1,399.00</div>
                                     <div class="h2 mb-4">Surface Laptop Studio</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/01.png" width="252" alt="Surface Laptop Studio">
+                                  <img src="/assets/img/mega-menu/electronics/01.png" width="252" alt="Surface Laptop Studio">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -466,7 +466,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Deal of the week</div>
                                     <div class="h2 mb-4">iPad Pro M1</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/02.png" width="252" alt="iPad Pro">
+                                  <img src="/assets/img/mega-menu/electronics/02.png" width="252" alt="iPad Pro">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -572,7 +572,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Best deal! Save up to <span class="fw-semibold">$500</span></div>
                                     <div class="h2 mb-4">LG OLED 4K Smart TV</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/03.png" width="252" alt="Smart TV">
+                                  <img src="/assets/img/mega-menu/electronics/03.png" width="252" alt="Smart TV">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -667,7 +667,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Deal of the week</div>
                                     <div class="h2 mb-4">Nest Audio</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/04.png" width="252" alt="Nest Audio">
+                                  <img src="/assets/img/mega-menu/electronics/04.png" width="252" alt="Nest Audio">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -780,7 +780,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Starts from <del>$1,100.00</del> 899.00</div>
                                     <div class="h2 mb-4">Canon Digital Cameras</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/05.png" width="252" alt="Canon Camera">
+                                  <img src="/assets/img/mega-menu/electronics/05.png" width="252" alt="Canon Camera">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -882,7 +882,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Best deal! Save up to <span class="fw-semibold">$200</span></div>
                                     <div class="h2 mb-4">Epson Color Printers</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/06.png" width="252" alt="Epson Printer">
+                                  <img src="/assets/img/mega-menu/electronics/06.png" width="252" alt="Epson Printer">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -943,7 +943,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Save up to <span class="fw-semibold">$350</span></div>
                                     <div class="h2 mb-4">Portable Power Stations</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/07.png" width="252" alt="Epson Printer">
+                                  <img src="/assets/img/mega-menu/electronics/07.png" width="252" alt="Epson Printer">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -1021,7 +1021,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Starts from $119.99</div>
                                     <div class="h2 mb-4">Wireless Headphones</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/08.png" width="252" alt="Wireless Headphones">
+                                  <img src="/assets/img/mega-menu/electronics/08.png" width="252" alt="Wireless Headphones">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -1082,7 +1082,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Deal of the week</div>
                                     <div class="h2 mb-4">Pixel Watch</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/09.png" width="252" alt="Pixel Watch">
+                                  <img src="/assets/img/mega-menu/electronics/09.png" width="252" alt="Pixel Watch">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -1151,7 +1151,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Save up to <span class="fw-semibold">$50</span> on our</div>
                                     <div class="h2 mb-4">Powerbanks Deals</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/10.png" width="252" alt="Powerbank">
+                                  <img src="/assets/img/mega-menu/electronics/10.png" width="252" alt="Powerbank">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -1215,7 +1215,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Starts from $89.99</div>
                                     <div class="h2 mb-4">Samsung SSD Deals</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/11.png" width="252" alt="SSD">
+                                  <img src="/assets/img/mega-menu/electronics/11.png" width="252" alt="SSD">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -1331,7 +1331,7 @@
                                     <div class="fs-sm text-light-emphasis mb-2">Starts from <del>$599.00</del> $499.00</div>
                                     <div class="h2 mb-4">Xbox Series X</div>
                                   </div>
-                                  <img src="assets/img/mega-menu/electronics/12.png" width="252" alt="Xbox">
+                                  <img src="/assets/img/mega-menu/electronics/12.png" width="252" alt="Xbox">
                                   <div class="text-center mt-4">
                                     <a class="btn btn-sm btn-primary stretched-link" href="shop-catalog-electronics">Shop now</a>
                                   </div>
@@ -1356,8 +1356,8 @@
                             <span class="fw-medium">Electronics Store</span>
                             <span class="d-block fs-xs text-body-secondary">Megamenu + Hero slider</span>
                             <div class="d-none d-lg-block hover-effect-target position-absolute top-0 start-100 bg-body border border-light-subtle rounded rounded-start-0 transition-none invisible opacity-0 pt-2 px-2 ms-n2" style="width: 212px; height: calc(100% + 2px); margin-top: -1px">
-                              <img class="position-relative z-2 d-none-dark" src="assets/img/mega-menu/demo-preview/electronics-light.jpg" alt="Electronics Store">
-                              <img class="position-relative z-2 d-none d-block-dark" src="assets/img/mega-menu/demo-preview/electronics-dark.jpg" alt="Electronics Store">
+                              <img class="position-relative z-2 d-none-dark" src="/assets/img/mega-menu/demo-preview/electronics-light.jpg" alt="Electronics Store">
+                              <img class="position-relative z-2 d-none d-block-dark" src="/assets/img/mega-menu/demo-preview/electronics-dark.jpg" alt="Electronics Store">
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none-dark" style="box-shadow: .875rem .5rem 2rem -.5rem #676f7b; opacity: .1"></span>
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none d-block-dark" style="box-shadow: .875rem .5rem 1.875rem -.5rem #080b12; opacity: .25"></span>
                             </div>
@@ -1368,8 +1368,8 @@
                             <span class="fw-medium">Fashion Store v.1</span>
                             <span class="d-block fs-xs text-body-secondary">Hero promo slider</span>
                             <div class="d-none d-lg-block hover-effect-target position-absolute top-0 start-100 bg-body border border-light-subtle rounded rounded-start-0 transition-none invisible opacity-0 pt-2 px-2 ms-n2" style="width: 212px; height: calc(100% + 2px); margin-top: -1px">
-                              <img class="position-relative z-2 d-none-dark" src="assets/img/mega-menu/demo-preview/fashion-1-light.jpg" alt="Fashion Store v.1">
-                              <img class="position-relative z-2 d-none d-block-dark" src="assets/img/mega-menu/demo-preview/fashion-1-dark.jpg" alt="Fashion Store v.1">
+                              <img class="position-relative z-2 d-none-dark" src="/assets/img/mega-menu/demo-preview/fashion-1-light.jpg" alt="Fashion Store v.1">
+                              <img class="position-relative z-2 d-none d-block-dark" src="/assets/img/mega-menu/demo-preview/fashion-1-dark.jpg" alt="Fashion Store v.1">
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none-dark" style="box-shadow: .875rem .5rem 2rem -.5rem #676f7b; opacity: .1"></span>
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none d-block-dark" style="box-shadow: .875rem .5rem 1.875rem -.5rem #080b12; opacity: .25"></span>
                             </div>
@@ -1380,8 +1380,8 @@
                             <span class="fw-medium">Fashion Store v.2</span>
                             <span class="d-block fs-xs text-body-secondary">Hero banner with hotspots</span>
                             <div class="d-none d-lg-block hover-effect-target position-absolute top-0 start-100 bg-body border border-light-subtle rounded rounded-start-0 transition-none invisible opacity-0 pt-2 px-2 ms-n2" style="width: 212px; height: calc(100% + 2px); margin-top: -1px">
-                              <img class="position-relative z-2 d-none-dark" src="assets/img/mega-menu/demo-preview/fashion-2-light.jpg" alt="Fashion Store v.2">
-                              <img class="position-relative z-2 d-none d-block-dark" src="assets/img/mega-menu/demo-preview/fashion-2-dark.jpg" alt="Fashion Store v.2">
+                              <img class="position-relative z-2 d-none-dark" src="/assets/img/mega-menu/demo-preview/fashion-2-light.jpg" alt="Fashion Store v.2">
+                              <img class="position-relative z-2 d-none d-block-dark" src="/assets/img/mega-menu/demo-preview/fashion-2-dark.jpg" alt="Fashion Store v.2">
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none-dark" style="box-shadow: .875rem .5rem 2rem -.5rem #676f7b; opacity: .1"></span>
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none d-block-dark" style="box-shadow: .875rem .5rem 1.875rem -.5rem #080b12; opacity: .25"></span>
                             </div>
@@ -1392,8 +1392,8 @@
                             <span class="fw-medium">Furniture Store</span>
                             <span class="d-block fs-xs text-body-secondary">Fancy product carousel</span>
                             <div class="d-none d-lg-block hover-effect-target position-absolute top-0 start-100 bg-body border border-light-subtle rounded rounded-start-0 transition-none invisible opacity-0 pt-2 px-2 ms-n2" style="width: 212px; height: calc(100% + 2px); margin-top: -1px">
-                              <img class="position-relative z-2 d-none-dark" src="assets/img/mega-menu/demo-preview/furniture-light.jpg" alt="Furniture Store">
-                              <img class="position-relative z-2 d-none d-block-dark" src="assets/img/mega-menu/demo-preview/furniture-dark.jpg" alt="Furniture Store">
+                              <img class="position-relative z-2 d-none-dark" src="/assets/img/mega-menu/demo-preview/furniture-light.jpg" alt="Furniture Store">
+                              <img class="position-relative z-2 d-none d-block-dark" src="/assets/img/mega-menu/demo-preview/furniture-dark.jpg" alt="Furniture Store">
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none-dark" style="box-shadow: .875rem .5rem 2rem -.5rem #676f7b; opacity: .1"></span>
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none d-block-dark" style="box-shadow: .875rem .5rem 1.875rem -.5rem #080b12; opacity: .25"></span>
                             </div>
@@ -1404,8 +1404,8 @@
                             <span class="fw-medium">Grocery Store</span>
                             <span class="d-block fs-xs text-body-secondary">Hero slider + Category cards</span>
                             <div class="d-none d-lg-block hover-effect-target position-absolute top-0 start-100 bg-body border border-light-subtle rounded rounded-start-0 transition-none invisible opacity-0 pt-2 px-2 ms-n2" style="width: 212px; height: calc(100% + 2px); margin-top: -1px">
-                              <img class="position-relative z-2 d-none-dark" src="assets/img/mega-menu/demo-preview/grocery-light.jpg" alt="Grocery Store">
-                              <img class="position-relative z-2 d-none d-block-dark" src="assets/img/mega-menu/demo-preview/grocery-dark.jpg" alt="Grocery Store">
+                              <img class="position-relative z-2 d-none-dark" src="/assets/img/mega-menu/demo-preview/grocery-light.jpg" alt="Grocery Store">
+                              <img class="position-relative z-2 d-none d-block-dark" src="/assets/img/mega-menu/demo-preview/grocery-dark.jpg" alt="Grocery Store">
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none-dark" style="box-shadow: .875rem .5rem 2rem -.5rem #676f7b; opacity: .1"></span>
                               <span class="position-absolute top-0 start-0 w-100 h-100 rounded rounded-start-0 d-none d-block-dark" style="box-shadow: .875rem .5rem 1.875rem -.5rem #080b12; opacity: .25"></span>
                             </div>
