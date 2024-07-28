@@ -1,5 +1,5 @@
 <x-www-layout>
-  <!-- Authentication offcanvas -->
+  {{-- <!-- Authentication offcanvas -->
   <div class="offcanvas offcanvas-end pb-sm-2 px-sm-2" id="authForm" tabindex="-1" aria-labelledby="authFormLabel" style="width: 500px">
     <div class="offcanvas-header flex-column align-items-start py-3 pt-lg-4">
       <div class="d-flex align-items-center justify-content-between w-100 mb-3 mb-lg-4">
@@ -127,7 +127,7 @@
         </form>
       </div>
     </div>
-  </div>
+  </div> --}}
 
   <!-- Page content -->
   <main class="content-wrapper">
@@ -159,163 +159,9 @@
               </div>
             </div>
 
-            <!-- Table of items -->
-            <table class="table position-relative z-2 mb-4">
-              <thead>
-                <tr>
-                  <th scope="col" class="fs-sm fw-normal py-3 ps-0"><span class="text-body">Product</span></th>
-                  <th scope="col" class="text-body fs-sm fw-normal py-3 d-none d-xl-table-cell"><span class="text-body">Price</span></th>
-                  <th scope="col" class="text-body fs-sm fw-normal py-3 d-none d-md-table-cell"><span class="text-body">Quantity</span></th>
-                  <th scope="col" class="text-body fs-sm fw-normal py-3 d-none d-md-table-cell"><span class="text-body">Total</span></th>
-                  <th scope="col" class="py-0 px-0">
-                    <div class="nav justify-content-end">
-                      <button type="button" class="nav-link d-inline-block text-decoration-underline text-nowrap py-3 px-0">Clear cart</button>
-                    </div>
-                  </th>
-                </tr>
-              </thead>
-              <tbody class="align-middle">
+            <!-- Livewire Cart Items -->
+            @livewire('CartItems')
 
-                <!-- Item -->
-                <tr>
-                  <td class="py-3 ps-0">
-                    <div class="d-flex align-items-center">
-                      <a class="flex-shrink-0" href="shop-product-general-electronics">
-                        <img src="/assets/img/shop/electronics/thumbs/08.png" width="110" alt="iPhone 14">
-                      </a>
-                      <div class="w-100 min-w-0 ps-2 ps-xl-3">
-                        <h5 class="d-flex animate-underline mb-2">
-                          <a class="d-block fs-sm fw-medium text-truncate animate-target" href="shop-product-general-electronics">Apple iPhone 14 128GB</a>
-                        </h5>
-                        <ul class="list-unstyled gap-1 fs-xs mb-0">
-                          <li><span class="text-body-secondary">Color:</span> <span class="text-dark-emphasis fw-medium">White</span></li>
-                          <li><span class="text-body-secondary">Model:</span> <span class="text-dark-emphasis fw-medium">128GB</span></li>
-                          <li class="d-xl-none"><span class="text-body-secondary">Price:</span> <span class="text-dark-emphasis fw-medium">$899.00</span></li>
-                        </ul>
-                        <div class="count-input rounded-2 d-md-none mt-3">
-                          <button type="button" class="btn btn-sm btn-icon" data-decrement aria-label="Decrement quantity">
-                            <i class="ci-minus"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm" value="1" readonly>
-                          <button type="button" class="btn btn-sm btn-icon" data-increment aria-label="Increment quantity">
-                            <i class="ci-plus"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </td>
-                  <td class="h6 py-3 d-none d-xl-table-cell">$899.00</td>
-                  <td class="py-3 d-none d-md-table-cell">
-                    <div class="count-input">
-                      <button type="button" class="btn btn-icon" data-decrement aria-label="Decrement quantity">
-                        <i class="ci-minus"></i>
-                      </button>
-                      <input type="number" class="form-control" value="1" readonly>
-                      <button type="button" class="btn btn-icon" data-increment aria-label="Increment quantity">
-                        <i class="ci-plus"></i>
-                      </button>
-                    </div>
-                  </td>
-                  <td class="h6 py-3 d-none d-md-table-cell">$899.00</td>
-                  <td class="text-end py-3 px-0">
-                    <button type="button" class="btn-close fs-sm" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-sm" data-bs-title="Remove" aria-label="Remove from cart"></button>
-                  </td>
-                </tr>
-
-                <!-- Item -->
-                <tr>
-                  <td class="py-3 ps-0">
-                    <div class="d-flex align-items-center">
-                      <a class="position-relative flex-shrink-0" href="shop-product-general-electronics">
-                        <span class="badge text-bg-danger position-absolute top-0 start-0">-10%</span>
-                        <img src="/assets/img/shop/electronics/thumbs/09.png" width="110" alt="iPad Pro">
-                      </a>
-                      <div class="w-100 min-w-0 ps-2 ps-xl-3">
-                        <h5 class="d-flex animate-underline mb-2">
-                          <a class="d-block fs-sm fw-medium text-truncate animate-target" href="shop-product-general-electronics">Tablet Apple iPad Pro M2</a>
-                        </h5>
-                        <ul class="list-unstyled gap-1 fs-xs mb-0">
-                          <li><span class="text-body-secondary">Color:</span> <span class="text-dark-emphasis fw-medium">Black</span></li>
-                          <li><span class="text-body-secondary">Model:</span> <span class="text-dark-emphasis fw-medium">256GB</span></li>
-                          <li class="d-xl-none"><span class="text-body-secondary">Price:</span> <span class="text-dark-emphasis fw-medium">$989.00 <del class="text-body-tertiary fw-normal">$1,099.00</del></span></li>
-                        </ul>
-                        <div class="count-input rounded-2 d-md-none mt-3">
-                          <button type="button" class="btn btn-sm btn-icon" data-decrement aria-label="Decrement quantity">
-                            <i class="ci-minus"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm" value="1" readonly>
-                          <button type="button" class="btn btn-sm btn-icon" data-increment aria-label="Increment quantity">
-                            <i class="ci-plus"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </td>
-                  <td class="h6 py-3 d-none d-xl-table-cell">$989.00 <del class="text-body-tertiary fs-xs fw-normal">$1,099.00</del></td>
-                  <td class="py-3 d-none d-md-table-cell">
-                    <div class="count-input">
-                      <button type="button" class="btn btn-icon" data-decrement aria-label="Decrement quantity">
-                        <i class="ci-minus"></i>
-                      </button>
-                      <input type="number" class="form-control" value="1" readonly>
-                      <button type="button" class="btn btn-icon" data-increment aria-label="Increment quantity">
-                        <i class="ci-plus"></i>
-                      </button>
-                    </div>
-                  </td>
-                  <td class="h6 py-3 d-none d-md-table-cell">$989.00</td>
-                  <td class="text-end py-3 px-0">
-                    <button type="button" class="btn-close fs-sm" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-sm" data-bs-title="Remove" aria-label="Remove from cart"></button>
-                  </td>
-                </tr>
-
-                <!-- Item -->
-                <tr>
-                  <td class="py-3 ps-0">
-                    <div class="d-flex align-items-center">
-                      <a class="flex-shrink-0" href="shop-product-general-electronics">
-                        <img src="/assets/img/shop/electronics/thumbs/01.png" width="110" alt="Smart Watch">
-                      </a>
-                      <div class="w-100 min-w-0 ps-2 ps-xl-3">
-                        <h5 class="d-flex animate-underline mb-2">
-                          <a class="d-block fs-sm fw-medium text-truncate animate-target" href="shop-product-general-electronics">Smart Watch Series 7</a>
-                        </h5>
-                        <ul class="list-unstyled gap-1 fs-xs mb-0">
-                          <li><span class="text-body-secondary">Color:</span> <span class="text-dark-emphasis fw-medium">White</span></li>
-                          <li><span class="text-body-secondary">Model:</span> <span class="text-dark-emphasis fw-medium">44 mm</span></li>
-                          <li class="d-xl-none"><span class="text-body-secondary">Price:</span> <span class="text-dark-emphasis fw-medium">$429.00</span></li>
-                        </ul>
-                        <div class="count-input rounded-2 d-md-none mt-3">
-                          <button type="button" class="btn btn-sm btn-icon" data-decrement aria-label="Decrement quantity">
-                            <i class="ci-minus"></i>
-                          </button>
-                          <input type="number" class="form-control form-control-sm" value="1" readonly>
-                          <button type="button" class="btn btn-sm btn-icon" data-increment aria-label="Increment quantity">
-                            <i class="ci-plus"></i>
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </td>
-                  <td class="h6 py-3 d-none d-xl-table-cell">$429.00</td>
-                  <td class="py-3 d-none d-md-table-cell">
-                    <div class="count-input">
-                      <button type="button" class="btn btn-icon" data-decrement aria-label="Decrement quantity">
-                        <i class="ci-minus"></i>
-                      </button>
-                      <input type="number" class="form-control" value="1" readonly>
-                      <button type="button" class="btn btn-icon" data-increment aria-label="Increment quantity">
-                        <i class="ci-plus"></i>
-                      </button>
-                    </div>
-                  </td>
-                  <td class="h6 py-3 d-none d-md-table-cell">$429.00</td>
-                  <td class="text-end py-3 px-0">
-                    <button type="button" class="btn-close fs-sm" data-bs-toggle="tooltip" data-bs-custom-class="tooltip-sm" data-bs-title="Remove" aria-label="Remove from cart"></button>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
 
             <div class="nav position-relative z-2 mb-4 mb-lg-0">
               <a class="nav-link animate-underline px-0" href="shop-catalog-electronics">
@@ -326,73 +172,15 @@
           </div>
         </div>
 
-
         <!-- Order summary (sticky sidebar) -->
         <aside class="col-lg-4" style="margin-top: -100px">
           <div class="position-sticky top-0" style="padding-top: 100px">
-            <div class="bg-body-tertiary rounded-5 p-4 mb-3">
-              <div class="p-sm-2 p-lg-0 p-xl-2">
-                <h5 class="border-bottom pb-4 mb-4">Order summary</h5>
-                <ul class="list-unstyled fs-sm gap-3 mb-0">
-                  <li class="d-flex justify-content-between">
-                    Subtotal (3 items):
-                    <span class="text-dark-emphasis fw-medium">$2,427.00</span>
-                  </li>
-                  <li class="d-flex justify-content-between">
-                    Saving:
-                    <span class="text-danger fw-medium">-$110.00</span>
-                  </li>
-                  <li class="d-flex justify-content-between">
-                    Tax collected:
-                    <span class="text-dark-emphasis fw-medium">$73.40</span>
-                  </li>
-                  <li class="d-flex justify-content-between">
-                    Shipping:
-                    <span class="text-dark-emphasis fw-medium">Calculated at checkout</span>
-                  </li>
-                </ul>
-                <div class="border-top pt-4 mt-4">
-                  <div class="d-flex justify-content-between mb-3">
-                    <span class="fs-sm">Estimated total:</span>
-                    <span class="h5 mb-0">$2,390.40</span>
-                  </div>
-                  <a class="btn btn-lg btn-primary w-100" href="checkout-v1-delivery-1">
-                    Proceed to checkout
-                    <i class="ci-chevron-right fs-lg ms-1 me-n1"></i>
-                  </a>
-                  <div class="nav justify-content-center fs-sm mt-3">
-                    <a class="nav-link text-decoration-underline p-0 me-1" href="#authForm" data-bs-toggle="offcanvas" role="button">Create an account</a>
-                    and get
-                    <span class="text-dark-emphasis fw-medium ms-1">239 bonuses</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="accordion bg-body-tertiary rounded-5 p-4">
-              <div class="accordion-item border-0">
-                <h3 class="accordion-header" id="promoCodeHeading">
-                  <button type="button" class="accordion-button animate-underline collapsed py-0 ps-sm-2 ps-lg-0 ps-xl-2" data-bs-toggle="collapse" data-bs-target="#promoCode" aria-expanded="false" aria-controls="promoCode">
-                    <i class="ci-percent fs-xl me-2"></i>
-                    <span class="animate-target me-2">Apply promo code</span>
-                  </button>
-                </h3>
-                <div class="accordion-collapse collapse" id="promoCode" aria-labelledby="promoCodeHeading">
-                  <div class="accordion-body pt-3 pb-2 ps-sm-2 px-lg-0 px-xl-2">
-                    <form class="needs-validation d-flex gap-2" novalidate>
-                      <div class="position-relative w-100">
-                        <input type="text" class="form-control" placeholder="Enter promo code" required>
-                        <div class="invalid-tooltip bg-transparent py-0">Enter a valid promo code!</div>
-                      </div>
-                      <button type="submit" class="btn btn-dark">Apply</button>
-                    </form>
-                  </div>
-                </div>
-              </div>
-            </div>
+            @livewire('OrderSummary')
           </div>
         </aside>
       </div>
     </section>
+
 
 
     <!-- Trending products (Carousel) -->
