@@ -201,5 +201,8 @@
 <!-- Vendor scripts(checkout-v1-cart) -->
 <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
+<!-- Vendor scripts(account-wishlist) -->
+<script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
+
 <!-- Bootstrap + Theme scripts -->
 <script src="/assets/js/theme.min.js"></script>
