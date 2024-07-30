@@ -1,7 +1,7 @@
 <x-www-app>
 
   <x-www-header>
-    Cartzilla
+    @livewire('CartzillaLiveCategory')
   </x-www-header>
 
   {{$slot}}
