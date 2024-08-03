@@ -187,26 +187,29 @@
 <!-- Vendor scripts(home-grocery) -->
 <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
 <script src="/assets/vendor/simplebar/dist/simplebar.min.js"></script>
-<script src="/assets/vendor/choices.js/public//assets/scripts/choices.min.js"></script>
+<script src="/assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
 
 <!-- Vendor scripts(shop-product-grocery) -->
-<script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="/assets/vendor/simplebar/dist/simplebar.min.js"></script>
-<script src="/assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
+{{-- <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script> --}}
+{{-- <script src="/assets/vendor/simplebar/dist/simplebar.min.js"></script> --}}
+{{-- <script src="/assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script> --}}
 <script src="/assets/vendor/glightbox/dist/js/glightbox.min.js"></script>
 
 <!-- Vendor scripts(404-grocery) -->
-<script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
+{{-- <script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script> --}}
 
 <!-- Vendor scripts(checkout-v1-cart) -->
-<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+{{-- <script src="assets/vendor/swiper/swiper-bundle.min.js"></script> --}}
 
 <!-- Vendor scripts(account-wishlist) -->
-<script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
+{{-- <script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script> --}}
 
 <!-- Vendor scripts(account-orders) -->
-<script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
+{{-- <script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script> --}}
 <script src="assets/vendor/list.js/dist/list.min.js"></script>
+
+<!-- Vendor script(checkout-v1-payment) -->
+<script src="/assets/vendor/cleave.js/dist/cleave.min.js"></script>
 
 <!-- Bootstrap + Theme scripts -->
 <script src="/assets/js/theme.min.js"></script>
