@@ -1,5 +1,5 @@
 <!-- Shopping cart offcanvas -->
-<div class="offcanvas offcanvas-end pb-sm-2 px-sm-2" id="shoppingCart" tabindex="-1" aria-labelledby="shoppingCartLabel" style="width: 500px">
+{{-- <div class="offcanvas offcanvas-end pb-sm-2 px-sm-2" id="shoppingCart" tabindex="-1" aria-labelledby="shoppingCartLabel" style="width: 500px">
 
   <!-- Header -->
   <div class="offcanvas-header flex-column align-items-start py-3 pt-lg-4">
@@ -104,7 +104,8 @@
       <a class="btn btn-lg btn-primary w-100" href="checkout-v1-delivery-1">Checkout</a>
     </div>
   </div>
-</div>
+</div> --}}
+@livewire('CartOffcanvas')
 
 <!-- Navigation bar (Page header) -->
     <header class="navbar navbar-expand-lg navbar-dark bg-dark d-block z-fixed p-0" data-sticky-navbar='{"offset": 500}'>
