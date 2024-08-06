@@ -211,5 +211,8 @@
 <!-- Vendor script(checkout-v1-payment) -->
 <script src="/assets/vendor/cleave.js/dist/cleave.min.js"></script>
 
+<!-- Vendor scripts(checkout-v1-shipping) -->
+{{-- <script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script> --}}
+
 <!-- Bootstrap + Theme scripts -->
 <script src="/assets/js/theme.min.js"></script>
