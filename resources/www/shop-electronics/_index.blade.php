@@ -806,10 +806,13 @@
     </div>
 
 
+    <x-site-setting>
+    </x-site-setting>
+
     <!-- Vendor scripts -->
-    <script src="assets/vendor/img-comparison-slider/dist/index.js"></script>
+    <script src="/assets/vendor/img-comparison-slider/dist/index.js"></script>
 
     <!-- Bootstrap + Theme scripts -->
-    <script src="assets/js/theme.min.js"></script>
+    <script src="/assets/js/theme.min.js"></script>
   </body>
 </html>

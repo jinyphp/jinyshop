@@ -3,6 +3,8 @@
 
       사이트 브렌드 : {{siteInfo('brand')}}
 
+
+
       <!-- Hero slider -->
       @partials("hero_slider")
 
@@ -23,6 +25,8 @@
 
       <!-- Instagram feed -->
       @partials("instagram_feed")
+
+
 
     </main>
 </x-www-layout>

@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="light" data-pwa="true">
-  <head>
+
+<head>
     <meta charset="utf-8">
 
     <!-- Viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
 
     <!-- SEO Meta Tags -->
-    <title>Cartzilla | Furniture Store</title>
+    <title>Cartzilla | Grocery Store</title>
     <meta name="description" content="Cartzilla - Multipurpose Bootstrap E-Commerce HTML Template">
-    <meta name="keywords" content="bootstrap, online shop, e-commerce, market, multipurpose, product landing, ui kit, light and dark mode, html5, css3, javascript, gallery, slider, touch, creative">
+    <meta name="keywords"
+        content="bootstrap, online shop, e-commerce, market, multipurpose, product landing, ui kit, light and dark mode, html5, css3, javascript, gallery, slider, touch, creative">
     <meta name="author" content="Createx Studio">
 
     <!-- Webmanifest + Favicon / App icons -->
@@ -32,21 +35,21 @@
     <!-- Vendor styles -->
     <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="/assets/vendor/simplebar/dist/simplebar.min.css">
-    <link rel="stylesheet" href="/assets/vendor/glightbox/dist/css/glightbox.min.css">
     <link rel="stylesheet" href="/assets/vendor/choices.js/public/assets/styles/choices.min.css">
-    <link rel="stylesheet" href="/assets/vendor/nouislider/dist/nouislider.min.css">
 
     <!-- Bootstrap + Theme styles -->
     <link rel="preload" href="/assets/css/theme.min.css" as="style">
     <link rel="stylesheet" href="/assets/css/theme.min.css" id="theme-styles">
-  </head>
+</head>
+
+<!-- Body -->
+
+<body>
+
+    {{ $slot }}
 
 
-  <!-- Body -->
-  <body>
-    {{$slot}}
-    <x-site-setting>
-    </x-site-setting>
-  </body>
+
+</body>
 
 </html>

@@ -1,13 +1,6 @@
 <x-www-app>
-
-  <x-www-header>
-    Cartzilla
-  </x-www-header>
-
-  {{$slot}}
-
-  <x-www-footer>
-  </x-www-footer>
-
+  <!-- Page content -->
+  <main class="content-wrapper">
+    {{$slot}}
+  </main>
 </x-www-app>
-

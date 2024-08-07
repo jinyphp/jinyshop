@@ -62,6 +62,8 @@
 
         <x-set-actions></x-set-actions>
 
+        <x-site-setting></x-site-setting>
+
 
 
 

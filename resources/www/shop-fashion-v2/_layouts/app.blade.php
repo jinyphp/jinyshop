@@ -42,9 +42,12 @@
   </head>
 
   <!-- Body -->
-<body>
+  <body>
 
-  {{$slot}}
+    {{$slot}}
 
-</body>
+    <x-site-setting>
+    </x-site-setting>
+
+  </body>
 </html>

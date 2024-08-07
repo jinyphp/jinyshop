@@ -5,18 +5,14 @@ return [
       'name'=>"slot1",
       'description'=>"기본슬롯"
    ],
-   'slot2'=>[
-      'active'=>"0",
-      'name'=>"slot2",
-      'description'=>"추가슬롯"
-    ],
+
     'shop-electronics'=>[
-      'active'=>"1",
+      'active'=>"0",
       'name'=>"shop-electronics",
       'description'=>"쇼핑몰 카트질라 전자기기"
    ],
     'shop_fashion-v1'=>[
-      'active'=>"0",
+      'active'=>"1",
       'name'=>"shop_fashion-v1",
       'description'=>"쇼핑몰 카트질라 패션1"
    ],

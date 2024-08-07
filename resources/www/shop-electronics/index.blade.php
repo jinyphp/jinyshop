@@ -1,7 +1,6 @@
 <x-www-layout>
 
-    <!-- Page content -->
-    <main class="content-wrapper">
+
 
       <!-- Hero slider -->
       <section class="container pt-4">
@@ -1734,7 +1733,7 @@
           </div>
         </div>
       </section>
-    </main>
+
 
 </x-www-layout>
 
