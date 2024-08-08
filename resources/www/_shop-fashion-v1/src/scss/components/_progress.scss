@@ -1,5 +1,0 @@
-// Override striped gradient for light progress bar
-
-.progress-bar-striped.bg-light {
-  @include gradient-striped(rgba($gray-900, .15), 45deg);
-}
