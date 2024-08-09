@@ -34,7 +34,7 @@
           </button>
           <a class="d-flex bg-body-tertiary rounded p-3" href="shop-product-fashion.html">
             <div class="ratio" style="--cz-aspect-ratio: calc(308 / 274 * 100%)">
-              <img src="assets/img/shop/fashion/01.png" alt="Image">
+              <img src="/assets/img/shop/fashion/01.png" alt="Image">
             </div>
           </a>
           <div class="hover-effect-target position-absolute start-0 bottom-0 w-100 z-2 opacity-0 pb-2 pb-sm-3 px-2 px-sm-3">
@@ -80,7 +80,7 @@
           </button>
           <a class="d-flex bg-body-tertiary rounded p-3" href="shop-product-fashion.html">
             <div class="ratio" style="--cz-aspect-ratio: calc(308 / 274 * 100%)">
-              <img src="assets/img/shop/fashion/08.png" alt="Image">
+              <img src="/assets/img/shop/fashion/08.png" alt="Image">
             </div>
           </a>
           <div class="hover-effect-target position-absolute start-0 bottom-0 w-100 z-2 opacity-0 pb-2 pb-sm-3 px-2 px-sm-3">
@@ -130,7 +130,7 @@
           </button>
           <a class="d-flex bg-body-tertiary rounded p-3" href="#!">
             <div class="ratio" style="--cz-aspect-ratio: calc(308 / 274 * 100%)">
-              <img src="assets/img/shop/fashion/11.png" alt="Image">
+              <img src="/assets/img/shop/fashion/11.png" alt="Image">
             </div>
           </a>
           <div class="hover-effect-target position-absolute start-0 bottom-0 w-100 z-2 opacity-0 pb-2 pb-sm-3 px-2 px-sm-3">
@@ -180,7 +180,7 @@
           </button>
           <a class="d-flex bg-body-tertiary rounded p-3" href="shop-product-fashion.html">
             <div class="ratio" style="--cz-aspect-ratio: calc(308 / 274 * 100%)">
-              <img src="assets/img/shop/fashion/04.png" alt="Image">
+              <img src="/assets/img/shop/fashion/04.png" alt="Image">
             </div>
           </a>
         </div>
@@ -215,7 +215,7 @@
           </button>
           <a class="d-flex bg-body-tertiary rounded p-3" href="shop-product-fashion.html">
             <div class="ratio" style="--cz-aspect-ratio: calc(308 / 274 * 100%)">
-              <img src="assets/img/shop/fashion/09.png" alt="Image">
+              <img src="/assets/img/shop/fashion/09.png" alt="Image">
             </div>
           </a>
           <div class="hover-effect-target position-absolute start-0 bottom-0 w-100 z-2 opacity-0 pb-2 pb-sm-3 px-2 px-sm-3">
@@ -261,7 +261,7 @@
           </button>
           <a class="d-flex bg-body-tertiary rounded p-3" href="shop-product-fashion.html">
             <div class="ratio" style="--cz-aspect-ratio: calc(308 / 274 * 100%)">
-              <img src="assets/img/shop/fashion/10.png" alt="Image">
+              <img src="/assets/img/shop/fashion/10.png" alt="Image">
             </div>
           </a>
         </div>
@@ -301,7 +301,7 @@
           </button>
           <a class="d-flex bg-body-tertiary rounded p-3" href="shop-product-fashion.html">
             <div class="ratio" style="--cz-aspect-ratio: calc(308 / 274 * 100%)">
-              <img src="assets/img/shop/fashion/05.png" alt="Image">
+              <img src="/assets/img/shop/fashion/05.png" alt="Image">
             </div>
           </a>
         </div>
@@ -340,7 +340,7 @@
           </button>
           <a class="d-flex bg-body-tertiary rounded p-3" href="shop-product-fashion.html">
             <div class="ratio" style="--cz-aspect-ratio: calc(308 / 274 * 100%)">
-              <img src="assets/img/shop/fashion/06.png" alt="Image">
+              <img src="/assets/img/shop/fashion/06.png" alt="Image">
             </div>
           </a>
           <div class="hover-effect-target position-absolute start-0 bottom-0 w-100 z-2 opacity-0 pb-2 pb-sm-3 px-2 px-sm-3">

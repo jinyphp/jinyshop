@@ -9,24 +9,12 @@
                 <!-- Logo -->
                 @partials('../login/header')
 
-                <h1 class="h2 mt-auto">반갑습니다</h1>
+                <h1 class="h2 mt-auto">로그인 중단</h1>
                 <div class="nav fs-sm mb-4">
-                    아직 회원이 아니신가요?
-                    <a class="nav-link text-decoration-underline p-0 ms-2"
-                        href="/regist">
-                        회원가입</a>
+                    로그인 접속 절차가 잠시 중단된 상태 입니다.
                 </div>
 
-                @partials('../login/form')
 
-                <!-- Divider -->
-                <x-ui-divider>
-                    <span class="text-body-emphasis fw-medium text-nowrap mx-4">
-                        또는 다음으로 로그인
-                    </span>
-                </x-ui-divider>
-
-                @partials('login.seocial')
 
                 <!-- Footer -->
                 @partials('../login/footer')

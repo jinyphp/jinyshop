@@ -62,7 +62,7 @@
           </div>
 
           <!-- Form -->
-          <form class="needs-validation" novalidate>
+          <!-- <form class="needs-validation" novalidate>
             <div class="position-relative mb-4">
               <input type="email" class="form-control form-control-lg" placeholder="Email" required>
               <div class="invalid-tooltip bg-transparent py-0">Enter a valid email address!</div>
@@ -88,7 +88,9 @@
               </div>
             </div>
             <button type="submit" class="btn btn-lg btn-primary w-100">Sign In</button>
-          </form>
+          </form> -->
+
+          @partials("../login/form")
 
           <!-- Divider -->
           <div class="d-flex align-items-center my-4">
