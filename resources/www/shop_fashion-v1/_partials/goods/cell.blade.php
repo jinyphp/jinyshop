@@ -8,6 +8,7 @@
 
             {{-- wish 버튼 --}}
             <button type="button"
+                wire:click="addWish('{{$item->id}}')"
                 class="btn btn-icon btn-secondary animate-pulse fs-base bg-transparent border-0 position-absolute top-0 end-0 z-2 mt-1 mt-sm-2 me-1 me-sm-2"
                 aria-label="Add to Wishlist">
                 <i class="ci-heart animate-target"></i>
