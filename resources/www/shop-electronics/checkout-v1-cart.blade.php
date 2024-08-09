@@ -142,7 +142,7 @@
     </nav>
 
 
-    <!-- Items in the cart + Order summary -->
+    {{-- <!-- Items in the cart + Order summary -->
     <section class="container pb-5 mb-2 mb-md-3 mb-lg-4 mb-xl-5">
       <h1 class="h3 mb-4">Shopping cart</h1>
       <div class="row">
@@ -179,7 +179,9 @@
           </div>
         </aside>
       </div>
-    </section>
+    </section> --}}
+    {{-- @include("www::shop-electronics._partials.cart_order_summary") --}}
+    @partials("cart_order_summary")
 
 
 
