@@ -13,6 +13,7 @@
         "jiny/shop": "^0.1.0",
         "jiny/site": "^0.7.0",
         "jiny/site-board": "^0.3.0",
+        "jiny/site-cms": "^0.2.0",
         "laravel/framework": "^11.9",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",

@@ -43,8 +43,10 @@
 
 
   <!-- Body -->
-<body>
-  {{$slot}}
-</body>
+  <body>
+    {{$slot}}
+    <x-site-setting>
+    </x-site-setting>
+  </body>
 
 </html>
