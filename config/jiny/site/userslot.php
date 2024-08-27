@@ -1,4 +1,4 @@
 <?php
 return [
-	'1'=>"shop_fashion-v1"
+	'1'=>"shop-electronics"
 ];
